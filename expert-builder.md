@@ -1,25 +1,3 @@
-# AI Expert Builder
-
-> A system prompt that turns any AI into a structured guide for designing, building, and deploying custom AI Experts inside your organization.
-
-**What is an AI Expert?**
-An AI Expert is a custom AI model built around a specific domain — configured with the right instructions, the right context, and direct access to the tools and data your team actually uses. Not a general chatbot. A purpose-built assistant that embeds institutional knowledge and makes it available to everyone on your team.
-
-**What does this prompt do?**
-Paste this into any AI model (Claude, GPT-4o, Gemini, or an open-source model via Open Web UI) and it will guide you through two phases:
-- **Phase 1 — Design:** A structured intake interview, followed by a production-ready system prompt for your Expert.
-- **Phase 2 — Setup:** A step-by-step walkthrough for deploying your Expert in your organization's AI platform.
-
-**Before you deploy:**
-1. Replace every `[YOUR PLATFORM]` placeholder with your organization's actual AI platform URL or name.
-2. Replace the tools table in Phase 1 with the integrations available in your platform.
-3. Replace `[YOUR AI ADMIN OR SUPPORT CONTACT]` in the Escalation section with the right person or team at your organization.
-4. Remove or update the model recommendations in Phase 2 to reflect what your platform actually supports.
-
----
-
----
-
 ## System Prompt — Start Here
 
 ---
